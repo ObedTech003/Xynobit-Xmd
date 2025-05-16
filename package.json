@@ -109,7 +109,7 @@
   "main": "pkdriller.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node pkdriller.js"
+    "start": "node xynobit.js"
   },
   "keywords": [
     "termux",
