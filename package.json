@@ -103,7 +103,7 @@
 
 
 {
-  "name": "NEXUS-AI",
+  "name": "XYNOBIT-XMD",
   "version": "2.0.0",
   "description": "WhatsApp Multi Device Bot",
   "main": "xynobit.js",
@@ -121,7 +121,7 @@
     "bot-md",
     "whatsapp-multi-device"
   ],
-  "author": "NEXUS-AI",
+  "author": "XYNOBIT-XMD",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
