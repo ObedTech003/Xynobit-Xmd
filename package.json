@@ -106,7 +106,7 @@
   "name": "NEXUS-AI",
   "version": "2.0.0",
   "description": "WhatsApp Multi Device Bot",
-  "main": "pkdriller.js",
+  "main": "xynobit.js",
   "type": "commonjs",
   "scripts": {
     "start": "node xynobit.js"
